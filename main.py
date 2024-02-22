@@ -63,6 +63,6 @@ def main(input: int):
 
 for i in range(5):
     rand = random.randint(1,100)
-    print(f'Sprial for rand: {rand}')
+    print(f'Spiral for random number: {rand}')
     main(rand)
     print()
